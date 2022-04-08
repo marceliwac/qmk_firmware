@@ -18,7 +18,7 @@
 #pragma once
 
 /* USB Device descriptor parameter */
-#define PRODUCT_ID 0xA4F9
+#define PRODUCT_ID 0x0267
 #define DEVICE_VER 0x0006
 #undef MANUFACTURER
 #define MANUFACTURER Drop
