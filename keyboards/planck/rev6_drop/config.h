@@ -23,9 +23,6 @@
 #define MATRIX_ROWS 8
 #define MATRIX_COLS 6
 
-/* Specify the compatible Apple product_id */
-#define PRODUCT_ID 0x05AC
-
 /*
  * Keyboard Matrix Assignments
  *
@@ -120,3 +117,7 @@
 #define WS2812_DMA_CHANNEL 2
 
 #define RGB_DISABLE_WHEN_USB_SUSPENDED
+
+#define RGBLIGHT_LAYERS
+#define RGBLIGHT_LAYER_BLINK
+#define RGBLIGHT_LAYERS_OVERRIDE_RGB_OFF

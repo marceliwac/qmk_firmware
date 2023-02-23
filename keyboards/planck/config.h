@@ -19,9 +19,6 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 #include "config_common.h"
 
-/* Specify the compatible Apple vendor_id */
-#define VENDOR_ID 0x0267
-
 /* key matrix size */
 #define MATRIX_ROWS 4
 #define MATRIX_COLS 12
