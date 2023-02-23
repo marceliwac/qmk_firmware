@@ -47,3 +47,8 @@
 
 // Most tactile encoders have detents every 4 stages
 #define ENCODER_RESOLUTION 4
+
+#undef VENDOR_ID
+#define VENDOR_ID 0x05AC
+#undef PRODUCT_ID
+#define PRODUCT_ID 0x0267

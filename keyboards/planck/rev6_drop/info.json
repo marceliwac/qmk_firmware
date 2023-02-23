@@ -4,8 +4,8 @@
   "url": "https://olkb.com/planck",
   "maintainer": "jackhumbert",
   "usb": {
-    "vid": "0x05AC",
-    "pid": "0x0267",
+    "vid": "0x03A8",
+    "pid": "0xA4F9",
     "device_version": "0.0.6"
   },
   "layouts": {
