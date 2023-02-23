@@ -1286,6 +1286,14 @@
                 "KC_ASST"
             ]
         },
+        "0x00C1": {
+            "group": "media",
+            "key": "KC_APPLE_FN",
+            "label": "Apple Fn",
+            "aliases": [
+                "KC_APFN"
+            ]
+        },
 
         "0x00CD": {
             "group": "mouse",
