@@ -23,6 +23,9 @@
 #define MATRIX_ROWS 8
 #define MATRIX_COLS 6
 
+/* Specify the compatible Apple product_id */
+#define PRODUCT_ID 0x05AC
+
 /*
  * Keyboard Matrix Assignments
  *
